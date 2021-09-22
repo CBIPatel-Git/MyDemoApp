@@ -1,13 +1,13 @@
 class DataModel {
   static List<Item> items = [
-    Item(
-        id: 1,
-        name: "iPhone 12 Pro",
-        desc: "Apple iPhone 12th generation",
-        price: 999,
-        color: "#33505a",
-        image:
-            "https://shop.jtglobal.com/wp-content/uploads/2020/10/iphone-12-pro-pacific-blue.jpg")
+    // Item(
+    //     id: 1,
+    //     name: "iPhone 12 Pro",
+    //     desc: "Apple iPhone 12th generation",
+    //     price: 999,
+    //     color: "#33505a",
+    //     image:
+    //         "https://shop.jtglobal.com/wp-content/uploads/2020/10/iphone-12-pro-pacific-blue.jpg")
   ];
 }
 

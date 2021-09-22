@@ -21,6 +21,7 @@ class _HomePageState extends State<HomePage> {
   }
 
   loadData() async {
+    await Future.delayed(Duration(seconds: 2));
     var dataJson = await rootBundle.loadString('assets/files/mydata.json');
     var decodedData = jsonDecode(dataJson);
     var productData = decodedData["products"];
@@ -42,13 +43,20 @@ class _HomePageState extends State<HomePage> {
           style: TextStyle(color: Colors.black),
         ),
       ),
-      body: ListView.builder(
-        itemCount: DataModel.items.length,
-        itemBuilder: (context, index) {
-          return ItemWidget(
-            item: DataModel.items[index],
-          );
-        },
+      body: Padding(
+        padding: const EdgeInsets.all(10.0),
+        child: (DataModel.items != null && DataModel.items.isNotEmpty)
+            ? ListView.builder(
+                itemCount: DataModel.items.length,
+                itemBuilder: (context, index) {
+                  return ItemWidget(
+                    item: DataModel.items[index],
+                  );
+                },
+              )
+            : Center(
+                child: CircularProgressIndicator(),
+              ),
       ),
       drawer: MyDrawer(),
     );

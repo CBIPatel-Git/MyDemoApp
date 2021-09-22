@@ -1,70 +1,70 @@
 {
-	"products":[
-		{
-			"id": 1,
-			"name": "iPhone 12 Pro",
-			"desc": "Apple iPhone 12th generation",
-			"price": 999,
-			"color": "#33505a",
-			"image": "https://shop.jtglobal.com/wp-content/uploads/2020/10/iphone-12-pro-pacific-blue.jpg"
-		},
-		{
-			"id": 2,
-			"name": "Pixel 5",
-			"desc": "Google pixel phone 5th generation",
-			"price": 699,
-			"color": "#00ac51",
-			"image": "https://mspoweruser.com/wp-content/uploads/2020/09/Google-Pixel-5-5G.jpg"
-		},
-		{
-			"id": 3,
-			"name": "M1 Macbook Air",
-			"desc": "Apple Macbook air with apple silicon",
-			"price": 1099,
-			"color": "#e0bfae",
-			"image": "https://cdn.mos.cms.futurecdn.net/gPvyaz76tASn87RCGuSdDc-1200-80.jpg"
-		},
-		{
-			"id": 4,
-			"name": "Playstation 5",
-			"desc": "Sony playstation 5th generation",
-			"price": 500,
-			"color": "#544ee4",
-			"image": "https://sm.mashable.com/mashable_sea/photo/default/143354-games-feature-sony-playstation-5-release-date-rumours_tp32.jpg"
-		},
-		{
-			"id": 5,
-			"name": "Airpods Pro",
-			"desc": "Apple airpods pro 1st generation",
-			"price": 200,
-			"color": "#e3e4e9",
-			"image": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/MWP22?wid=1144&hei=1144&fmt=jpeg&qlt=80&op_usm=0.5,0.5&.v=1572990352299"
-		},
-		{
-			"id": 6,
-			"name": "iPad Pro",
-			"desc": "Apple iPad pro 2020 edition",
-			"price": 799,
-			"color": "#f73984",
-			"image": "https://johnlewis.scene7.com/is/image/JohnLewis/238667170?$rsp-pdp-port-1440$"
-		},
-		{
-			"id": 7,
-			"name": "Galaxy S21 Ultra",
-			"desc": "Samsung galaxy s21 ultra 2021 edition",
-			"price": 1299,
-			"color": "#1c1c1c",
-			"image": "https://mspoweruser.com/wp-content/uploads/2020/12/galaxy-s21-ultra.jpg"
-		},
-		{
-			"id": 8,
-			"name": "Galaxy S21",
-			"desc": "Samsung galaxy s21 2021 edition",
-			"price": 899,
-			"color": "#7c95eb",
-			"image": "https://www.sammobile.com/wp-content/uploads/2020/04/Samsung-Galaxy-A21-Evan-Blass-Mockup.jpg"
-		}
-	]
+  "products": [
+    {
+      "id": 1,
+      "name": "iPhone 12 Pro",
+      "desc": "Apple iPhone 12th generation",
+      "price": 999,
+      "color": "#33505a",
+      "image": "https://shop.jtglobal.com/wp-content/uploads/2020/10/iphone-12-pro-pacific-blue.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Pixel 5",
+      "desc": "Google pixel phone 5th generation",
+      "price": 699,
+      "color": "#00ac51",
+      "image": "https://mspoweruser.com/wp-content/uploads/2020/09/Google-Pixel-5-5G.jpg"
+    },
+    {
+      "id": 3,
+      "name": "M1 Macbook Air",
+      "desc": "Apple Macbook air with apple silicon",
+      "price": 1099,
+      "color": "#e0bfae",
+      "image": "https://www.bhphotovideo.com/images/images2500x2500/apple_z125_mgn7_04_bh_13_3_macbook_air_with_1604840.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Playstation 5",
+      "desc": "Sony playstation 5th generation",
+      "price": 500,
+      "color": "#544ee4",
+      "image": "https://albilad.s3.me-south-1.amazonaws.com/images/news/2020/11/24/thumbnails/main/f24050719.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Airpods Pro",
+      "desc": "Apple airpods pro 1st generation",
+      "price": 200,
+      "color": "#e3e4e9",
+      "image": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/MWP22?wid=1144&hei=1144&fmt=jpeg&qlt=80&op_usm=0.5,0.5&.v=1572990352299"
+    },
+    {
+      "id": 6,
+      "name": "iPad Pro",
+      "desc": "Apple iPad pro 2020 edition",
+      "price": 799,
+      "color": "#f73984",
+      "image": "https://johnlewis.scene7.com/is/image/JohnLewis/238667170?$rsp-pdp-port-1440$"
+    },
+    {
+      "id": 7,
+      "name": "Galaxy S21 Ultra",
+      "desc": "Samsung galaxy s21 ultra 2021 edition",
+      "price": 1299,
+      "color": "#1c1c1c",
+      "image": "https://frankfurt.apollo.olxcdn.com/v1/files/r1l8esk0ml4y-RO/image;s=728x800"
+    },
+    {
+      "id": 8,
+      "name": "Galaxy S21",
+      "desc": "Samsung galaxy s21 2021 edition",
+      "price": 899,
+      "color": "#7c95eb",
+      "image": "https://servicios.zonatecno.com.uy/productos/Celular_Samsung_Galaxy_S21_256GB_Phantom_White_DS_tab_1.png"
+    }
+  ]
 }
 
 

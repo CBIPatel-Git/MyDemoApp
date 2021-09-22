@@ -15,7 +15,15 @@ class ItemWidget extends StatelessWidget {
         onTap: () {
           print('${item.name} pressed');
         },
-        leading: Image.network(item.image),
+        leading: ConstrainedBox(
+          constraints: BoxConstraints(
+            minWidth: 44,
+            minHeight: 44,
+            maxWidth: 64,
+            maxHeight: 64,
+          ),
+          child: Image.network(item.image),
+        ),
         title: Text(item.name),
         subtitle: Text(item.desc),
         trailing: Text(
