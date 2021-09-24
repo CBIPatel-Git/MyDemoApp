@@ -12,7 +12,7 @@ class DataImage extends StatelessWidget {
     return Image.network(image)
         .box
         .rounded
-        .color(MyTheme.creamColor)
+        .color(context.canvasColor)
         .make()
         .p16()
         .w32(context);
