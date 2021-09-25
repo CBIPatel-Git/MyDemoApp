@@ -7,7 +7,7 @@
 			"price": 999,
 			"color": "#33505a",
 			"big_desc" : "Apple’s recently launched iPhone 13 series includes four smartphones, ranging from the iPhone 13 Mini to the iPhone 13 Pro Max. The designs are unchanged compared to those of their predecessors, except for a smaller notch and a re-aligned camera setup for the two smaller iPhones.",
-			"image": "https://shop.jtglobal.com/wp-content/uploads/2020/10/iphone-12-pro-pacific-blue.jpg"
+			"image": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-12-pro-blue-hero?wid=940&hei=1112&fmt=png-alpha&qlt=80&.v=1604021661000"
 		},
 		{
 			"id": 2,
@@ -16,7 +16,7 @@
 			"price": 699,
 			"color": "#00ac51",
 			"big_desc" : "The Google Pixel 5 is very different from its predecessor, featuring solid specs but far from cutting edge. In this Google Pixel 5 buyer’s guide, we’ve got the info you’ll need to make a smart purchase decision. We’ll also answer your frequently asked questions about the phone. Let’s dive in!",
-			"image": "https://mspoweruser.com/wp-content/uploads/2020/09/Google-Pixel-5-5G.jpg"
+			"image": "https://cdn.shopify.com/s/files/1/0051/8301/2928/products/Pixel5Front-Reformatted_1200x1200.png?v=1605040074"
 		},
 		{
 			"id": 3,
@@ -25,7 +25,7 @@
 			"price": 1099,
 			"color": "#e0bfae",
 			"big_desc" : "A MacBook makes for a great work-from-home option, especially if you invest in a few accessories as well. Just make sure you double-check the specs carefully to ensure that you’re grabbing the right device.",
-			"image": "https://www.bhphotovideo.com/images/images2500x2500/apple_z125_mgn7_04_bh_13_3_macbook_air_with_1604840.jpg"
+			"image": "https://photos5.appleinsider.com/price_guide/m1-macbook-pro-pp-header.png"
 		},
 		{
 			"id": 4,
@@ -34,7 +34,7 @@
 			"price": 500,
 			"color": "#544ee4",
 			"big_desc" : "PlayStation Plus is a subscription-based service that originally launched in 2010. Since then, the original premise has changed very little. Each month, you can download two or three games for free to keep as long as you are a paying subscriber.",
-			"image": "https://albilad.s3.me-south-1.amazonaws.com/images/news/2020/11/24/thumbnails/main/f24050719.jpg"
+			"image": "https://i1.wp.com/freepngimages.com/wp-content/uploads/2020/07/Playstation-5-games-console-transparent-background-png-image.png?fit=1000%2C1000"
 		},
 		{
 			"id": 5,
@@ -43,7 +43,7 @@
 			"price": 200,
 			"color": "#e3e4e9",
 			"big_desc" : "Apple’s AirPods are undoubtedly in the top tier of earbuds, but they come with a healthy dose of Apple Tax. In fact, they’re some of the most expensive on the market. The good news is that there are plenty of AirPods deals available across the internet at almost all times. To make the search a bit easier for you, we’ve gone ahead and rounded up some of the best savings.",
-			"image": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/MWP22?wid=1144&hei=1144&fmt=jpeg&qlt=80&op_usm=0.5,0.5&.v=1572990352299"
+			"image": "https://crdms.images.consumerreports.org/c_lfill,w_598/prod/products/cr/models/400116-wireless-portable-headphones-apple-airpods-pro-10009323.png"
 		},
 		{
 			"id": 6,
@@ -52,7 +52,7 @@
 			"price": 799,
 			"color": "#f73984",
 			"big_desc" : "The iPad is almost certainly the first name you think of when you’re looking for a tablet, and it comes in all shapes and sizes. To help you make your next purchase, we’ve rounded up the best iPad and iPad accessory deals right here. Whether you want a top-of-the-line iPad Pro or to maximize your portability with the iPad Mini, there should be something to suit your needs.",
-			"image": "https://johnlewis.scene7.com/is/image/JohnLewis/238667170?$rsp-pdp-port-1440$"
+			"image": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/ipad-pro-12-select-wifi-silver-202003_FMT_WHH?wid=940&hei=1112&fmt=png-alpha&qlt=80&.v=1583551131102"
 		},
 		{
 			"id": 7,
@@ -61,7 +61,7 @@
 			"price": 1299,
 			"color": "#1c1c1c",
 			"big_desc" : "Loads of Galaxy S22 series rumors and leaks have appeared online in recent months, but one of the craziest claims we heard is that Samsung could be teaming up with Japanese camera maker Olympus for the new phones.",
-			"image": "https://frankfurt.apollo.olxcdn.com/v1/files/r1l8esk0ml4y-RO/image;s=728x800"
+			"image": "https://lh3.googleusercontent.com/qRQPjHrhRVIs-xnfNSyiPXOH2vH97ylMacgbTKebqJtRfNH3LlYo8pN-5igsLDWUH62tGl5zNpTsl5xd8SprzGmXoCEmWFOi2-2cQVGS-r3PaRXHt62DmJHq-jrYX0UQvWZ9BA=s800-c"
 		},
 		{
 			"id": 8,
@@ -70,7 +70,7 @@
 			"price": 899,
 			"color": "#7c95eb",
 			"big_desc" : "A timeless classic that leaves the Galaxy S21 flawlessly fitted and guarded from everyday bumps. Made to stay lightweight and slim, the Thin Fit® has been a long-time favorite for its got-nothing-on type of look.",
-			"image": "https://servicios.zonatecno.com.uy/productos/Celular_Samsung_Galaxy_S21_256GB_Phantom_White_DS_tab_1.png"
+			"image": "https://images.samsung.com/is/image/samsung/p6pim/za/galaxy-s21/gallery/za-clear-cover-galaxy-s21-5g-ef-qg991ttegww-363168624?$720_576_PNG$"
 		}
 	]
 }

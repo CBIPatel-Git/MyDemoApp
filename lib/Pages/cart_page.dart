@@ -25,12 +25,18 @@ class CartPage extends StatelessWidget {
   }
 }
 
-class _CartTotal extends StatelessWidget {
+class _CartTotal extends StatefulWidget {
   const _CartTotal({Key? key}) : super(key: key);
 
   @override
+  State<_CartTotal> createState() => _CartTotalState();
+}
+
+class _CartTotalState extends State<_CartTotal> {
+  @override
   Widget build(BuildContext context) {
     final CartModel _cart = (VxState.store as MyStore).cart;
+
     return SizedBox(
       height: 200,
       child: Row(
@@ -51,6 +57,7 @@ class _CartTotal extends StatelessWidget {
           // ),
 
           30.widthBox,
+
           ElevatedButton(
             onPressed: () {
               ScaffoldMessenger.of(context).showSnackBar(
